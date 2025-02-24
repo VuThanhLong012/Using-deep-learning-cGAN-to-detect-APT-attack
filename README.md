@@ -1,4 +1,3 @@
-Source code: For several reasons, the source code will not be made public. If necessary, please contact me via email.
 
 Using deep learning cGAN to detect APT attack
 
